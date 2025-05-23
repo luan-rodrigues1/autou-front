@@ -35,5 +35,5 @@ npm run dev
 
 ### 4. Acesse a aplicação em [http://localhost:3000](http://localhost:3000)
 
-Observação: Para que a aplicação funcione corretamente em ambiente local, é necessário que a API esteja em execução na porta 8000.
+> ⚠️ **Importante**: Para que a aplicação funcione corretamente em ambiente local, é necessário que a API esteja em execução na porta 8000.
 Repositório da API: https://github.com/luan-rodrigues1/autou-api
